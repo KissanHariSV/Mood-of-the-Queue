@@ -41,5 +41,5 @@ streamlit run app.py
 
 ## 🔗 Live Demo & Data
 
-- **🌐 Streamlit App**: [mood-of-the-queue.streamlit.app]([https://mood-of-the-queue.streamlit.app](https://mood-of-the-queue-hdyzpmytwyb3azlwe2yqch.streamlit.app/))
+- **🌐 Streamlit App**: [mood-of-the-queue.streamlit.app](https://mood-of-the-queue-hdyzpmytwyb3azlwe2yqch.streamlit.app/)
 - **📄 Google Sheet (Responses)**: [View Sheet](https://docs.google.com/spreadsheets/d/1Gl3FAgqE4HNFAuqH-Ve_XFmBUJzyqPA6JOqHwc763iA/edit?usp=sharing)
