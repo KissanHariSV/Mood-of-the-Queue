@@ -33,7 +33,7 @@ with st.form("mood_form"):
         response = requests.post(FORM_URL, data=data, headers=headers)
         if response.status_code in [200, 302]:
             st.toast("Mood logged successfully 🎉", icon="✅")
-            st.experimental_rerun()
+            st.rerun()
         else:
             st.warning("Something went wrong while submitting.")
 
