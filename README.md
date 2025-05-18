@@ -29,6 +29,7 @@ A quick internal tool built with **Streamlit** to track and visualize the emotio
 
 ```bash
 pip install -r requirements.txt
+---
 
 ## 📊 Output
 
