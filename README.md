@@ -29,3 +29,18 @@ A quick internal tool built with **Streamlit** to track and visualize the emotio
 
 ```bash
 pip install -r requirements.txt
+
+## 📊 Output
+
+- Logged moods are stored in a Google Sheet.
+- A real-time bar chart shows the mood breakdown for the selected day.
+- New entries trigger an immediate refresh of the chart.
+
+---
+
+## 🔗 Live Demo & Data
+
+- **🌐 Streamlit App**: [mood-of-the-queue.streamlit.app]([https://mood-of-the-queue.streamlit.app](https://mood-of-the-queue-hdyzpmytwyb3azlwe2yqch.streamlit.app/))
+- **📄 Google Sheet (Responses)**: [View Sheet](https://docs.google.com/spreadsheets/d/1Gl3FAgqE4HNFAuqH-Ve_XFmBUJzyqPA6JOqHwc763iA/edit?usp=sharing)
+
+---
