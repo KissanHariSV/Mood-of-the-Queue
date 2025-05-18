@@ -28,8 +28,8 @@ A quick internal tool built with **Streamlit** to track and visualize the emotio
 ### 1. Install dependencies
 
 ```bash
-pip install -r requirements.txt
----
+streamlit run app.py
+```
 
 ## 📊 Output
 
@@ -43,5 +43,3 @@ pip install -r requirements.txt
 
 - **🌐 Streamlit App**: [mood-of-the-queue.streamlit.app]([https://mood-of-the-queue.streamlit.app](https://mood-of-the-queue-hdyzpmytwyb3azlwe2yqch.streamlit.app/))
 - **📄 Google Sheet (Responses)**: [View Sheet](https://docs.google.com/spreadsheets/d/1Gl3FAgqE4HNFAuqH-Ve_XFmBUJzyqPA6JOqHwc763iA/edit?usp=sharing)
-
----
